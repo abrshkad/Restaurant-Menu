@@ -2,18 +2,15 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #fff8f0;
-  color: #333;
+  background: #ffd700;
+  color: #353839;
 }
 
 header {
-  background-image: url('images/logo.jpg'); /* <-- jpg file */
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 120px auto;
-  color: white;
+  background: #353839;
+  color: #ffd700;
   text-align: center;
-  padding: 3rem 1rem; /* extra padding so logo fits */
+  padding: 1rem;
 }
 
 
