@@ -7,19 +7,13 @@ body {
 }
 
 header {
-  background: #c0392b;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-}
-header {
-  background-image: url('images/logo.jpg');
+  background-image: url('images/logo.jpg'); /* <-- jpg file */
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 120px auto; /* logo size */
+  background-size: 120px auto;
   color: white;
   text-align: center;
-  padding: 2rem 1rem; /* add extra padding so logo fits */
+  padding: 3rem 1rem; /* extra padding so logo fits */
 }
 
 
